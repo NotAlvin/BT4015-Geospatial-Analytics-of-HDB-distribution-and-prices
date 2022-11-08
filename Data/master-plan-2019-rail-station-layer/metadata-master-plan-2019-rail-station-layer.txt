@@ -1,0 +1,39 @@
+# Metadata for Master Plan 2019 Rail Station layer
+---
+Identifier: '22ec26f3-5795-4864-97cb-36a25763241d'
+Name: 'master-plan-2019-rail-station-layer'
+Title: 'Master Plan 2019 Rail Station layer'
+Description: 'Indicative MRT and LRT station outline layer. This layer is extracted
+  from the Master Plan 2019 that was approved on 18 Nov 2019. For the latest Master
+  Plan, please visit URA web site at https://www.ura.gov.sg/'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'LRT station'
+  - 'MP19'
+  - 'MP2019'
+  - 'Master Plan 2019 MRT station'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'URBAN REDEVELOPMENT AUTHORITY'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-01-25T00:03:19.022898'
+Resources:
+  -
+    Identifier: '5e5a3637-bee6-4ca4-8d5e-2a6936d93965'
+    Title: 'Master Plan 2019 Rail Station layer (KML)'
+    Url: 'https://geo.data.gov.sg/g-mp19-rail-stn-pl/2019/12/09/kml/g-mp19-rail-stn-pl.kml'
+    Format: 'KML'
+    Last Updated: '2019-12-08T16:00:00'
+  -
+    Identifier: 'df9d6bac-cc7c-4651-9dfe-42845ae2c095'
+    Title: 'Master Plan 2019 Rail Station layer (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/g-mp19-rail-stn-pl/2019/12/09/geojson/g-mp19-rail-stn-pl.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-12-08T16:00:00'

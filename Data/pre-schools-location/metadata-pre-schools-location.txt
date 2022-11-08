@@ -1,0 +1,40 @@
+# Metadata for Pre-Schools Location
+---
+Identifier: '1f127dc3-7596-4b86-846b-9d32bfa88532'
+Name: 'pre-schools-location'
+Title: 'Pre-Schools Location'
+Description: 'The location of pre-schools (childcare centres and kindergartens)'
+Topics:
+  - 'Society'
+Keywords:
+  - 'OneMap'
+  - 'childcare'
+  - 'childcare centre'
+  - 'ecda'
+  - 'kindergarten'
+  - 'pre-school'
+  - 'preschool'
+Publisher:
+  Name: 'Early Childhood Development Agency'
+  Admin 1:
+    Name: 'Nur Aisyah Rapii'
+    Department: 'EARLY CHILDHOOD DEVELOPMENT AGENCY'
+    Email: 'Nur_Aisyah_RAPII@ecda.gov.sg'
+Sources:
+  - 'Early Childhood Development Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-08-19T00:05:11.976015'
+Resources:
+  -
+    Identifier: '06fb77f8-125b-4202-a770-698a51ffab30'
+    Title: 'Pre-Schools Location (KML)'
+    Url: 'https://geo.data.gov.sg/preschools-location/2020/08/12/kml/preschools-location.kml'
+    Format: 'KML'
+    Last Updated: '2020-08-11T16:00:00'
+  -
+    Identifier: '66c41375-f58d-4801-b484-6140a162519b'
+    Title: 'Pre-Schools Location (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/preschools-location/2020/08/12/geojson/preschools-location.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2020-08-11T16:00:00'
